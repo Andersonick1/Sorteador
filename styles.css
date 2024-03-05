@@ -71,24 +71,24 @@ button:active {
         align-items: center;
         flex-direction: column;
         margin-bottom: 25px;
-        margin-left: 130px;
+        margin-left: 100px;
         width: 250px;
         height: 60px;
     }
     img {
         width: 50%;
         display: block;
-        margin-left: 70px;
-        margin-top: 40px;
+        margin-left: 30px;
+        margin-top: 18px;
     }
     button {
         width: 230px;
         display: block;
-        margin-left: 70px;
+        margin-left: 45px;
         margin-top: 40px;
     }
     h2 {
-        margin-left: 60px;
+        margin-left: 35px;
         margin-top: 60px;
         font-size: 25px;
     }
